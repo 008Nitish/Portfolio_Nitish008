@@ -1,0 +1,33 @@
+[
+  {
+    "name": "BreedAI",
+    "desc": "An AI-powered website for breed identification of indian cattles and buffaloes.",
+    "image": "breed",
+    "category": "web dev",
+    "links": {
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7408558269121892353/?originTrackingId=SqWHmaN%2BMFGPZ7Ltes2VQA%3D%3D",
+      "code": "https://lnkd.in/geSsPxwD"
+    }
+  },
+  {
+    "name": "EduStack",
+    "desc": "True Wealth Lies in Knowledge — Build Skills, Shape Futures, Transform Lives",
+    "image": "edu",
+    "category": "Full Stack Development",
+    "links": {
+      "view": "https://edu-stack-frontend.vercel.app/",
+      "code": "https://github.com/008Nitish/EduStack.git"
+    }
+  },
+  {
+    "name": "Solo Stack",
+    "desc": "This is my starter template for full-stack web development with Node.js, designed for deployment to Hetzner (or technically, any server).",
+    "image": "libs",
+    "category": "Full Stack Development",
+    "links": {
+      "view": "https://libs.tech/",
+      "code": "https://github.com/008Nitish/solo-stack.git"
+    }
+  }
+ 
+]
