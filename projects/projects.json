@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "Solo Stack",
+    "name": "Libs Tech",
     "desc": "This is my starter template for full-stack web development with Node.js, designed for deployment to Hetzner (or technically, any server).",
     "image": "libs",
     "category": "Full Stack Development",
